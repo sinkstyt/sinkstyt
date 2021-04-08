@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tyler Sinks</h1>
 <h3 align="center">aspiring full stack developer and barbecue sauce enthusiast</h3>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sinkstyt&show_icons=true&locale=en" alt="sinkstyt" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sinkstyt&show_icons=true&locale=en" alt="sinkstyt" /></p>
 
 - 🌱 I’m currently learning **javascript, css, html, c-sharp, React**
 
